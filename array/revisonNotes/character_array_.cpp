@@ -40,6 +40,17 @@ void reverseString(char name[], int len)
     }
 }
 
+bool checkPalindrome(char name[], int len)
+{
+    for(int i = 0; i < len/2; i++)
+    {
+        if(name[i] != name[len-i-1])
+            return false;
+    }
+    
+    return true;
+}
+
 int main()
 {
     // cout << "Working fine :)" << endl;
@@ -55,6 +66,11 @@ int main()
 
     reverseString(name, len);
     cout << name << endl;
+
+    if(checkPalindrome(name, len))
+        cout << "Yes!" << endl;
+    else 
+        cout << "No!" << endl;
 
     return 0;
 }
