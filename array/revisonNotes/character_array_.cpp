@@ -21,10 +21,23 @@ void swap(char &first, char &last)
 
 void reverseString(char name[], int len)
 {
+    // USING SPACE: O(n)
+    // char temp[100];
+    // for(int i = 0; i < len; i++)
+    // {
+    //     temp[len-i-1] = name[i];
+    // }
+
+    // for(int i = 0; i < len; i++)
+    // {
+    //     name[i] = temp[i];
+    // }
+
+    // INPLACE SWAP: O(1)
     for(int i = 0; i < len/2; i++)
     {
         swap(name[i], name[len-i-1]);
-    }    
+    }
 }
 
 int main()
