@@ -1,4 +1,10 @@
 Array and String day 1 - 18 Aug 2022
     - Longest common prefix 
     - Valid palindrome II
-Sleep @11:05
+    Sleep @11:05
+
+Array and String day 2 - 19 Aug 2022
+    - Square of sorted array
+    - 56. Merge Intervals
+    - 58. Length of Last Word
+
