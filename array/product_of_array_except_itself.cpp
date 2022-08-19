@@ -36,3 +36,61 @@ public:
 };
 
 */
+
+
+
+
+
+// OPTIMIZED SOLUTION
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+        
+        int p = 1;
+        int size = nums.size();
+        vector<int> ans(size, 1);
+        
+        for(int i = 0; i < size; i++)
+        {
+            ans[i] = p;
+            p = p * nums[i];
+        }
+        
+        p = 1;
+        
+        for(int i = size-1; i >= 0; i--)
+        {
+            ans[i] *= p;
+            p = p * nums[i];
+        }
+        
+        return ans;
+    }
+};
+
+// ONLY ONE FOR LOOP
+/*
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+        
+        int p1 = 1;
+        int p2 = 1;
+        int size = nums.size();
+        vector<int> ans(size, 1);
+        
+        for(int i = 0; i < size; i++)
+        {
+            ans[i] *= p1;
+            p1 = p1 * nums[i];
+            
+            int j = size - i - 1;
+            
+            ans[j] *= p2;
+            p2 = p2 * nums[j];
+        }
+        
+        return ans;
+    }
+};
+*/
