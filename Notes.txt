@@ -1,3 +1,5 @@
+____________________________ARRAY AND STRING____________________________
+
 Array and String day 1 - 18 Aug 2022
     - Longest common prefix 
     - Valid palindrome II
@@ -10,4 +12,7 @@ Array and String day 2 - 19 Aug 2022
     Sleeped @11:20 PM
 
 Array and String day 3 - 20 Aug 2022
+    - ABSENT
+    
+Array and String day 4 - 21 Aug 2022
     - ABSENT
