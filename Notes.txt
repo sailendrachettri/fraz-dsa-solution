@@ -16,3 +16,6 @@ Array and String day 3 - 20 Aug 2022
     
 Array and String day 4 - 21 Aug 2022
     - ABSENT
+    
+Array and String day 5 - 22 Aug 2022
+    - 380. Insert Delete GetRandom O(1)
