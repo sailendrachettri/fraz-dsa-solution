@@ -20,5 +20,10 @@ Array and String day 4 - 21 Aug 2022
 Array and String day 5 - 22 Aug 2022
     - 380. Insert Delete GetRandom O(1)
     - 560. Subarray Sum Equals K
+    - 31. Next Permutation
     - 342. Power of Four (Daily challenge)
+    Sleeped @10:30
+
+Array and String day 6 - 23 Aug 2022
+    - palindrome of the linkedlist (daily challenge)
 
