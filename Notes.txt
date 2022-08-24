@@ -31,4 +31,8 @@ Array and String day 6 - 23 Aug 2022
     - 79. Word Search
     - 16. 3Sum Closest
     - palindrome of the linkedlist (daily challenge)
+    Sleeped @9:56
+
+Basic Recursion day 7 - 24 Aug 2022
+    - pow(x, n) -> got TLE
 
