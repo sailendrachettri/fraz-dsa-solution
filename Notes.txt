@@ -34,5 +34,6 @@ Array and String day 6 - 23 Aug 2022
     Sleeped @9:56
 
 Basic Recursion day 7 - 24 Aug 2022
-    - pow(x, n) -> got TLE
+    - pow(x, n) -> got TLE :(
+    Sleeped @10:05
 
