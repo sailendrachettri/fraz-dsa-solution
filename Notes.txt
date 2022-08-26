@@ -37,3 +37,9 @@ Basic Recursion day 7 - 24 Aug 2022
     - pow(x, n) -> got TLE :(
     Sleeped @10:05
 
+Basic Recursion day 8 - 25 Aug 2022
+    - 383. Ransom Note
+    Sleeped @9:50
+
+Basic Recursion day 9 - 26 Aug 2022
+    - Reorder power of 2 (potd)
