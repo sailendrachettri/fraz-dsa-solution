@@ -48,6 +48,8 @@ Basic Recursion day 9 - 26 Aug 2022
     Sleeped @11:23
 
 Basic Recursion day 10 - 27 Aug 2022
+    - 47. Permutations II
+    - 90. Subsets II
 
 Basic Recursion day 11 - 28 Aug 2022
 Basic Recursion day 12 - 29 Aug 2022
