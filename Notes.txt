@@ -70,9 +70,14 @@ Advance Recursion day 12 - 29 Aug 2022
     - 79. Word Search
     - Rate in Maze (gfg)
     - N - Queen (coding ninja)
+    Sleeped @11:03
 
 Advance Recursion day 13 - 30 Aug 2022
+    - ABSENT
+    
 Advance Recursion day 14 - 31 Aug 2022
+    - ABSENT
+
 Advance Recursion day 15 - 01 Aug 2022
 Advance Recursion day 16 - 02 Aug 2022
 Advance Recursion day 17 - 03 Aug 2022
